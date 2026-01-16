@@ -49,3 +49,58 @@ This implementation runs entirely in the terminal and focuses on clean logic, re
 1. Clone the repository:
    ```bash
    git clone https://github.com/Fedrick007/Text-Based-Tic-Tac-Toe-Game-Python.git
+2. Navigate to the project directory:
+   ```bash
+   cd text-based-tic-tac-toe
+3. Run the game:
+   ```bash
+   python tic_tac_toe.py
+
+---
+
+## 🧪 Sample Gameplay
+```
+1 | 2 | 3
+--+---+--
+4 | 5 | 6
+--+---+--
+7 | 8 | 9
+
+Player X, choose a position (1-9):
+```
+
+---
+
+## 🚀 Future Enhancements
+
+- Single-player mode with computer AI
+
+- Minimax algorithm implementation
+
+- Replay option after game completion
+
+- Score tracking
+
+- GUI or web-based version
+
+---
+
+## 📚 Learning Outcome
+
+By building this project, you will:
+
+- Understand how real-world game logic works
+
+- Gain confidence with Python fundamentals
+
+- Learn how to structure small Python projects
+
+- Practice writing clean and readable code
+
+---
+
+## 👨‍💻 Author
+
+- Fedrick Samuel W
+- M.Tech in Software Engineering
+- Python Developer | Data Science Enthusiast
