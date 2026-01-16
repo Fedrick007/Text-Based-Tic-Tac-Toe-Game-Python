@@ -48,4 +48,4 @@ This implementation runs entirely in the terminal and focuses on clean logic, re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Fedrick007/Text-Based-Tic-Tac-Toe-Game-Python-.git
+   git clone https://github.com/Fedrick007/Text-Based-Tic-Tac-Toe-Game-Python.git
